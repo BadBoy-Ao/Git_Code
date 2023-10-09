@@ -4,8 +4,8 @@
 int main()
 {
     int a, b, c;
-    a = 5;
-    b = 2;
+    a = 2;
+    b = 5;
     c = 1;
     printf("%d%d%d\n", a, b, c);
 }
